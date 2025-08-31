@@ -9,8 +9,8 @@ Recently, I’ve started exploring **Machine Learning**, and my research focuses
 
 ### 🛠️ Tech Stack
 **Frontend:**  
-<!--![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) -->
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
@@ -40,6 +40,7 @@ Recently, I’ve started exploring **Machine Learning**, and my research focuses
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) 
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white)
 
+
 ---
 
 ### 🌱 Currently Working On
@@ -60,8 +61,8 @@ Recently, I’ve started exploring **Machine Learning**, and my research focuses
 
 ### 📂 Projects
 - 💼 **Devtinder** – A platform connecting developers, inspired by Tinder but focused on collaboration and networking.  
-   - [Frontend Repository](#)  
-   - [Backend Repository](#)  
+   - [Frontend Repository](https://github.com/ShogunScripts/devTinder-web)  
+   - [Backend Repository](https://github.com/ShogunScripts/DevTinder)
 
 ---
 
@@ -74,7 +75,17 @@ Recently, I’ve started exploring **Machine Learning**, and my research focuses
 ---
 
 ### 📊 GitHub Stats
-<!-- Flashy or Moderate stats can go here (we'll add badges later) -->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ShogunScripts&show_icons=true&theme=transparent&rank_icon=github"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ShogunScripts&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShogunScripts&show_icons=true" />
+</picture>
 
 ---
 
@@ -85,11 +96,11 @@ Recently, I’ve started exploring **Machine Learning**, and my research focuses
 ---
 
 ### 📄 Resume
-[![Resume](https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](#)
+[![Resume](https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/13HID-jDu0xqnEc-S67BbDgq2Yrw5WfC_?usp=drive_link)
 
 ### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrunal-kumbhare-034b94155/) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrunalkumbhare007@gmail.com)
 
 ---
 
