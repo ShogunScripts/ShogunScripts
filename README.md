@@ -75,7 +75,7 @@ Recently, I’ve started exploring **Machine Learning**, and my research focuses
 - 🎨 Childhood passion for **drawing & painting** — planning to pick it up again soon!  
 
 ---
-
+<!--
 ### 📊 GitHub Stats
 <picture>
   <source
@@ -90,6 +90,7 @@ Recently, I’ve started exploring **Machine Learning**, and my research focuses
 </picture>
 
 ---
+-->
 
 ### ✨ Quotes I Like
 > *“Everything around you that you call life was made up by people that were no smarter than you.”* – Steve Jobs  
