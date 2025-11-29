@@ -62,7 +62,7 @@ Recently, I’ve started exploring **Machine Learning**, and my research focuses
 ---
 
 ### 📂 Projects
-- 💼 **Devtinder** – A platform connecting developers, inspired by Tinder but focused on collaboration and networking.  
+- 💼 **Den of Developers** – A platform connecting developers, inspired by Tinder but focused on collaboration and networking.  
    - [Frontend Repository](https://github.com/ShogunScripts/devTinder-web)  
    - [Backend Repository](https://github.com/ShogunScripts/DevTinder)
 
