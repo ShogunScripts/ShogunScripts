@@ -2,13 +2,11 @@
 
 💡 **About Me**  
 I’m a Mechanical Engineering graduate, currently pursuing my **M.Tech in Computer Science & Engineering at NIT Hamirpur**.  
-I’m passionate about **Web Development** and aim to become a **Full-Stack Developer**.  
+I’m passionate about **Web Development & ML** and aim to become a **ML Engineer/Researcher**.  
 Recently, I’ve started exploring **Machine Learning**, and my research focuses on **NLP & Large Language Models (LLMs)**.
 
-My research work : [https://github.com/ShogunScripts/Research-Work-Syntactic-Data-Augmentation-for-Low-Resource-Indian-Language-Translation/tree/main]
+My research work : [Link](https://github.com/ShogunScripts/Research-Work-Syntactic-Data-Augmentation-for-Low-Resource-Indian-Language-Translation/tree/main)
 
-
-My website : [shogunscripts.github.io/]
 
 
 ---
@@ -108,9 +106,11 @@ My website : [shogunscripts.github.io/]
 [![Resume](https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/13HID-jDu0xqnEc-S67BbDgq2Yrw5WfC_?usp=drive_link)
 
 ### 📫 Connect With Me
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://shogunscripts.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrunal-kumbhare-034b94155/) 
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NovaDevworks)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrunalkumbhare007@gmail.com)
+
 
 ---
 
