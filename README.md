@@ -3,9 +3,10 @@
 💡 **About Me**  
 I’m a Mechanical Engineering graduate, currently pursuing my **M.Tech in Computer Science & Engineering at NIT Hamirpur**.  
 I’m passionate about **Web Development** and aim to become a **Full-Stack Developer**.  
-Recently, I’ve started exploring **Machine Learning**, and [**my research**]([https://github.com/your-username/your-repo-name](https://github.com/ShogunScripts/Research-Work-Syntactic-Data-Augmentation-for-Low-Resource-Indian-Language-Translation/tree/main)) focuses on **NLP & Large Language Models (LLMs)**.
+Recently, I’ve started exploring **Machine Learning**, and my research focuses on **NLP & Large Language Models (LLMs)**.
 
 My research work : [https://github.com/ShogunScripts/Research-Work-Syntactic-Data-Augmentation-for-Low-Resource-Indian-Language-Translation/tree/main]
+My website : [shogunscripts.github.io/]
 
 
 ---
